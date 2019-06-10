@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+img {
+	border: 0;
+	vertical-align: middle;
+}
+input, textarea {
+	outline: 0;
+}
+input {
+	border: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+}
+.w {
+	width: 1090px;
+	margin: 0 auto;
+}
+body {
+	font: 12px arial, 'microsoft yahei';
+	color: #666;
+}
+a {
+	color: #666;
+}
+a:hover {
+	color: #b4a078;
+}
+.color {
+	color: #b4a078
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}

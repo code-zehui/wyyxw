@@ -1,0 +1,1729 @@
+head {
+  height: 176px;
+}
+head .w .head_top {
+  background: #323232;
+  height: 36px;
+}
+body .Event_nav {
+  background: #d94b09;
+  height: 50px;
+  line-height: 50px;
+}
+body .Event_nav .w ul {
+  text-align: center;
+}
+body .Event_nav .w ul li:first-child {
+  width: 421px;
+  background: #cb3e04;
+}
+body .Event_nav .w ul li:nth-child(2) {
+  width: 520px;
+  background: #df5919;
+}
+body .Event_nav .w ul li:last-child {
+  width: 138px;
+}
+body .Event_nav .w ul li:last-child a {
+  width: 106px;
+  padding: 8px 15px;
+  text-align: center;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 20px;
+}
+body .Event_nav .w ul li {
+  float: left;
+  font-size: 18px;
+}
+body .Event_nav .w ul li span {
+  color: #ffdbc7;
+}
+body .Event_Konten1 {
+  background: #eea723;
+}
+body .Event_Konten2 {
+  background: #eea723;
+}
+body .Event_Konten2-1 {
+  background: #eea723;
+  height: 324px;
+  overflow: hidden;
+  width: 100%;
+}
+body .Event_Konten2-1 .chuanda1 {
+  width: 536px;
+  height: 324px;
+  position: relative;
+  float: left;
+  margin-right: 9px;
+  overflow: hidden;
+}
+body .Event_Konten2-1 .chuanda1 .left_jiao {
+  width: 65px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  color: #a7936e;
+  border: 1px solid #b3a07d;
+  border-radius: 5px;
+  background-color: rgba(238, 232, 221, 0.9);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 99;
+}
+body .Event_Konten2-1 .chuanda1 a .img_chuanda {
+  width: 536px;
+  height: 324px;
+  transition: 0.3s;
+}
+body .Event_Konten2-1 .chuanda1 a:hover .img_chuanda {
+  transform: scale(1.05);
+}
+body .Event_Konten2-1 .chuanda1 .Introduced {
+  width: 536px;
+  height: 94px;
+  background-color: #fff;
+  opacity: .85;
+  position: absolute;
+  bottom: 0;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .title {
+  position: relative;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .title span {
+  position: absolute;
+  padding: 2px 4px;
+  color: #fff;
+  background: #e36843;
+  top: 15px;
+  left: 20px;
+  border-radius: 3px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .title h3 {
+  color: #484747;
+  position: absolute;
+  top: 15px;
+  left: 60px;
+  font-size: 16px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .goods {
+  position: absolute;
+  left: 20px;
+  top: 45px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .price {
+  position: absolute;
+  left: 20px;
+  top: 70px;
+  color: #b4272d;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .price span:first-child {
+  font-size: 14px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .price span:last-child {
+  position: absolute;
+  font-size: 20px;
+  top: -2px;
+  left: 14px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .shop a:first-child {
+  background-color: #b4272d;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 3px;
+  position: absolute;
+  right: 55px;
+  top: 43px;
+}
+body .Event_Konten2-1 .chuanda1 .Introduced .shop a:last-child {
+  position: absolute;
+  top: 43px;
+  right: 20px;
+}
+body .Event_Konten3-1 {
+  background: #eea723;
+  height: 324px;
+  overflow: hidden;
+  width: 100%;
+}
+body .Event_Konten3-1 .chuanda1 {
+  width: 536px;
+  height: 324px;
+  position: relative;
+  float: left;
+  margin-right: 9px;
+  overflow: hidden;
+}
+body .Event_Konten3-1 .chuanda1 .left_jiao {
+  width: 65px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  color: #a7936e;
+  border: 1px solid #b3a07d;
+  border-radius: 5px;
+  background-color: rgba(238, 232, 221, 0.9);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 99;
+}
+body .Event_Konten3-1 .chuanda1 a .img_chuanda {
+  width: 536px;
+  height: 324px;
+  transition: 0.3s;
+}
+body .Event_Konten3-1 .chuanda1 a:hover .img_chuanda {
+  transform: scale(1.05);
+}
+body .Event_Konten3-1 .chuanda1 .Introduced {
+  width: 536px;
+  height: 94px;
+  background-color: #fff;
+  opacity: .85;
+  position: absolute;
+  bottom: 0;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .title {
+  position: relative;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .title span {
+  position: absolute;
+  padding: 2px 4px;
+  color: #fff;
+  background: #e36843;
+  top: 15px;
+  left: 20px;
+  border-radius: 3px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .title h3 {
+  color: #484747;
+  position: absolute;
+  top: 15px;
+  left: 60px;
+  font-size: 16px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .goods {
+  position: absolute;
+  left: 20px;
+  top: 45px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .price {
+  position: absolute;
+  left: 20px;
+  top: 70px;
+  color: #b4272d;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .price span:first-child {
+  font-size: 14px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .price span:last-child {
+  position: absolute;
+  font-size: 20px;
+  top: -2px;
+  left: 14px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .shop a:first-child {
+  background-color: #b4272d;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 3px;
+  position: absolute;
+  right: 55px;
+  top: 43px;
+}
+body .Event_Konten3-1 .chuanda1 .Introduced .shop a:last-child {
+  position: absolute;
+  top: 43px;
+  right: 20px;
+}
+body .other {
+  background-color: #eda61a;
+}
+body .xianshi {
+  background-color: #fce0b2;
+}
+body .xianshi .title {
+  display: table;
+  margin: 0 auto;
+}
+body .xianshi .title a {
+  display: inline-block;
+  width: 545px;
+  height: 66px;
+  background-size: 547px 66px;
+}
+body .xianshi .title a:first-child {
+  background: url(../img/Event.img/Konten9-3.png) no-repeat;
+}
+body .xianshi .title a:last-child {
+  background: url(../img/Event.img/Konten9-3-1.png) no-repeat;
+}
+body .xianshigou {
+  background-color: #fce0b2;
+}
+body .xianshigou .w .list {
+  width: 1100px;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+body .xianshigou .w .list .goods1 {
+  float: left;
+  background-color: #fff;
+  width: 540px;
+  height: 240px;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-top: 10px;
+  vertical-align: top;
+}
+body .xianshigou .w .list .goods1 .left {
+  overflow: hidden;
+}
+body .xianshigou .w .list .goods1 .left a img {
+  width: 230px;
+  height: 230px;
+  transition: 0.3s;
+}
+body .xianshigou .w .list .goods1 .left a:hover img {
+  transform: scale(1.05);
+}
+body .xianshigou .w .list .goods1 .right {
+  width: 310px;
+  height: 240px;
+}
+body .xianshigou .w .list .goods1 .right .title p {
+  font-size: 22px;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 50px;
+}
+body .xianshigou .w .list .goods1 .right p {
+  font-size: 16px;
+  color: #959595;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 6px;
+}
+body .xianshigou .w .list .goods1 .right .price {
+  height: 32px;
+  margin-top: 10px;
+  padding-left: 30px;
+  line-height: 32px;
+}
+body .xianshigou .w .list .goods1 .right .price span:first-child {
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+}
+body .xianshigou .w .list .goods1 .right .price span:nth-child(2) {
+  color: #e6943b;
+  font-size: 30px;
+  line-height: 32px;
+}
+body .xianshigou .w .list .goods1 .right .price span:nth-child(2) i {
+  font-size: 14px;
+}
+body .xianshigou .w .list .goods1 .right .price span:nth-child(2) span {
+  margin-left: -8px;
+}
+body .xianshigou .w .list .goods1 .right .price del {
+  color: #adadad;
+  font-size: 16px;
+}
+body .xianshigou .w .list .goods1 .right .shop {
+  position: relative;
+}
+body .xianshigou .w .list .goods1 .right .shop span {
+  display: block;
+  background-color: #fedad5;
+  color: #e64f3b;
+  width: 162px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  border: 1px solid #b4272d;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+body .xianshigou .w .list .goods1 .right .shop img {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  bottom: -5px;
+  right: 95px;
+}
+body .new_list {
+  background-color: #d15a30;
+}
+body .black_list {
+  background-color: #83cdc9;
+}
+body .chaozhi_list {
+  background-color: #1a456f;
+}
+body .Event_Konten1,
+body .Event_Konten2,
+body .Event_Konten3,
+body .other_chuanda,
+body .xianshi,
+body .new,
+body .black,
+body .chaozhi,
+body .color,
+body .clothes {
+  overflow: hidden;
+}
+body .Event_Konten1 img,
+body .Event_Konten2 img,
+body .Event_Konten3 img,
+body .other_chuanda img,
+body .xianshi img,
+body .new img,
+body .black img,
+body .chaozhi img,
+body .color img,
+body .clothes img {
+  position: relative;
+  display: block;
+  left: 50%;
+  margin-left: -960px;
+  width: 1920px;
+}
+body .other_list .w,
+body .new_list .w,
+body .black_list .w,
+body .chaozhi_list .w,
+body .pink_list .w,
+body .purple_list .w,
+body .blue_list .w,
+body .green_list .w,
+body .clothes_list .w {
+  width: 1104px;
+  overflow: hidden;
+  padding-top: 30px;
+}
+body .other_list .w .list_1 .other_list_mz,
+body .new_list .w .list_1 .other_list_mz,
+body .black_list .w .list_1 .other_list_mz,
+body .chaozhi_list .w .list_1 .other_list_mz,
+body .pink_list .w .list_1 .other_list_mz,
+body .purple_list .w .list_1 .other_list_mz,
+body .blue_list .w .list_1 .other_list_mz,
+body .green_list .w .list_1 .other_list_mz,
+body .clothes_list .w .list_1 .other_list_mz,
+body .other_list .w .list_1 .other_list_xp,
+body .new_list .w .list_1 .other_list_xp,
+body .black_list .w .list_1 .other_list_xp,
+body .chaozhi_list .w .list_1 .other_list_xp,
+body .pink_list .w .list_1 .other_list_xp,
+body .purple_list .w .list_1 .other_list_xp,
+body .blue_list .w .list_1 .other_list_xp,
+body .green_list .w .list_1 .other_list_xp,
+body .clothes_list .w .list_1 .other_list_xp {
+  position: absolute;
+  background-color: #e26743;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+}
+body .other_list .w .list_1 .other_list_mz,
+body .new_list .w .list_1 .other_list_mz,
+body .black_list .w .list_1 .other_list_mz,
+body .chaozhi_list .w .list_1 .other_list_mz,
+body .pink_list .w .list_1 .other_list_mz,
+body .purple_list .w .list_1 .other_list_mz,
+body .blue_list .w .list_1 .other_list_mz,
+body .green_list .w .list_1 .other_list_mz,
+body .clothes_list .w .list_1 .other_list_mz {
+  left: 130px;
+}
+body .other_list .w .list_1 .other_list_xp,
+body .new_list .w .list_1 .other_list_xp,
+body .black_list .w .list_1 .other_list_xp,
+body .chaozhi_list .w .list_1 .other_list_xp,
+body .pink_list .w .list_1 .other_list_xp,
+body .purple_list .w .list_1 .other_list_xp,
+body .blue_list .w .list_1 .other_list_xp,
+body .green_list .w .list_1 .other_list_xp,
+body .clothes_list .w .list_1 .other_list_xp {
+  background-color: #b39f78;
+  left: 80px;
+}
+body .other_list .w .list_2 .other_list_mz,
+body .new_list .w .list_2 .other_list_mz,
+body .black_list .w .list_2 .other_list_mz,
+body .chaozhi_list .w .list_2 .other_list_mz,
+body .pink_list .w .list_2 .other_list_mz,
+body .purple_list .w .list_2 .other_list_mz,
+body .blue_list .w .list_2 .other_list_mz,
+body .green_list .w .list_2 .other_list_mz,
+body .clothes_list .w .list_2 .other_list_mz,
+body .other_list .w .list_2 .other_list_kx,
+body .new_list .w .list_2 .other_list_kx,
+body .black_list .w .list_2 .other_list_kx,
+body .chaozhi_list .w .list_2 .other_list_kx,
+body .pink_list .w .list_2 .other_list_kx,
+body .purple_list .w .list_2 .other_list_kx,
+body .blue_list .w .list_2 .other_list_kx,
+body .green_list .w .list_2 .other_list_kx,
+body .clothes_list .w .list_2 .other_list_kx {
+  position: absolute;
+  background-color: #e26743;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+}
+body .other_list .w .list_2 .other_list_mz,
+body .new_list .w .list_2 .other_list_mz,
+body .black_list .w .list_2 .other_list_mz,
+body .chaozhi_list .w .list_2 .other_list_mz,
+body .pink_list .w .list_2 .other_list_mz,
+body .purple_list .w .list_2 .other_list_mz,
+body .blue_list .w .list_2 .other_list_mz,
+body .green_list .w .list_2 .other_list_mz,
+body .clothes_list .w .list_2 .other_list_mz {
+  left: 130px;
+}
+body .other_list .w .list_2 .other_list_kx,
+body .new_list .w .list_2 .other_list_kx,
+body .black_list .w .list_2 .other_list_kx,
+body .chaozhi_list .w .list_2 .other_list_kx,
+body .pink_list .w .list_2 .other_list_kx,
+body .purple_list .w .list_2 .other_list_kx,
+body .blue_list .w .list_2 .other_list_kx,
+body .green_list .w .list_2 .other_list_kx,
+body .clothes_list .w .list_2 .other_list_kx {
+  background-color: #b9453a;
+  left: 70px;
+}
+body .other_list .w .list_3 .other_list_kx,
+body .new_list .w .list_3 .other_list_kx,
+body .black_list .w .list_3 .other_list_kx,
+body .chaozhi_list .w .list_3 .other_list_kx,
+body .pink_list .w .list_3 .other_list_kx,
+body .purple_list .w .list_3 .other_list_kx,
+body .blue_list .w .list_3 .other_list_kx,
+body .green_list .w .list_3 .other_list_kx,
+body .clothes_list .w .list_3 .other_list_kx {
+  position: absolute;
+  background-color: #e26743;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+  background-color: #b9453a;
+  left: 100px;
+}
+body .other_list .w .list_4 .other_list_xp,
+body .new_list .w .list_4 .other_list_xp,
+body .black_list .w .list_4 .other_list_xp,
+body .chaozhi_list .w .list_4 .other_list_xp,
+body .pink_list .w .list_4 .other_list_xp,
+body .purple_list .w .list_4 .other_list_xp,
+body .blue_list .w .list_4 .other_list_xp,
+body .green_list .w .list_4 .other_list_xp,
+body .clothes_list .w .list_4 .other_list_xp {
+  position: absolute;
+  background-color: #b39f78;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+  left: 70px;
+}
+body .other_list .w .list_4 .other_list_kx,
+body .new_list .w .list_4 .other_list_kx,
+body .black_list .w .list_4 .other_list_kx,
+body .chaozhi_list .w .list_4 .other_list_kx,
+body .pink_list .w .list_4 .other_list_kx,
+body .purple_list .w .list_4 .other_list_kx,
+body .blue_list .w .list_4 .other_list_kx,
+body .green_list .w .list_4 .other_list_kx,
+body .clothes_list .w .list_4 .other_list_kx {
+  position: absolute;
+  background-color: #e26743;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+  background-color: #b9453a;
+  left: 120px;
+}
+body .other_list .w .list_5 .other_list_mz,
+body .new_list .w .list_5 .other_list_mz,
+body .black_list .w .list_5 .other_list_mz,
+body .chaozhi_list .w .list_5 .other_list_mz,
+body .pink_list .w .list_5 .other_list_mz,
+body .purple_list .w .list_5 .other_list_mz,
+body .blue_list .w .list_5 .other_list_mz,
+body .green_list .w .list_5 .other_list_mz,
+body .clothes_list .w .list_5 .other_list_mz,
+body .other_list .w .list_5 .other_list_dm,
+body .new_list .w .list_5 .other_list_dm,
+body .black_list .w .list_5 .other_list_dm,
+body .chaozhi_list .w .list_5 .other_list_dm,
+body .pink_list .w .list_5 .other_list_dm,
+body .purple_list .w .list_5 .other_list_dm,
+body .blue_list .w .list_5 .other_list_dm,
+body .green_list .w .list_5 .other_list_dm,
+body .clothes_list .w .list_5 .other_list_dm {
+  position: absolute;
+  background-color: #e26743;
+  padding: 2px 7px;
+  color: #fff;
+  border-radius: 3px;
+  top: 267px;
+}
+body .other_list .w .list_5 .other_list_mz,
+body .new_list .w .list_5 .other_list_mz,
+body .black_list .w .list_5 .other_list_mz,
+body .chaozhi_list .w .list_5 .other_list_mz,
+body .pink_list .w .list_5 .other_list_mz,
+body .purple_list .w .list_5 .other_list_mz,
+body .blue_list .w .list_5 .other_list_mz,
+body .green_list .w .list_5 .other_list_mz,
+body .clothes_list .w .list_5 .other_list_mz {
+  left: 140px;
+}
+body .other_list .w .list_5 .other_list_dm,
+body .new_list .w .list_5 .other_list_dm,
+body .black_list .w .list_5 .other_list_dm,
+body .chaozhi_list .w .list_5 .other_list_dm,
+body .pink_list .w .list_5 .other_list_dm,
+body .purple_list .w .list_5 .other_list_dm,
+body .blue_list .w .list_5 .other_list_dm,
+body .green_list .w .list_5 .other_list_dm,
+body .clothes_list .w .list_5 .other_list_dm {
+  background-color: #b9453a;
+  left: 70px;
+}
+body .other_list .w .list_1,
+body .new_list .w .list_1,
+body .black_list .w .list_1,
+body .chaozhi_list .w .list_1,
+body .pink_list .w .list_1,
+body .purple_list .w .list_1,
+body .blue_list .w .list_1,
+body .green_list .w .list_1,
+body .clothes_list .w .list_1,
+body .other_list .w .list_2,
+body .new_list .w .list_2,
+body .black_list .w .list_2,
+body .chaozhi_list .w .list_2,
+body .pink_list .w .list_2,
+body .purple_list .w .list_2,
+body .blue_list .w .list_2,
+body .green_list .w .list_2,
+body .clothes_list .w .list_2,
+body .other_list .w .list_3,
+body .new_list .w .list_3,
+body .black_list .w .list_3,
+body .chaozhi_list .w .list_3,
+body .pink_list .w .list_3,
+body .purple_list .w .list_3,
+body .blue_list .w .list_3,
+body .green_list .w .list_3,
+body .clothes_list .w .list_3,
+body .other_list .w .list_4,
+body .new_list .w .list_4,
+body .black_list .w .list_4,
+body .chaozhi_list .w .list_4,
+body .pink_list .w .list_4,
+body .purple_list .w .list_4,
+body .blue_list .w .list_4,
+body .green_list .w .list_4,
+body .clothes_list .w .list_4,
+body .other_list .w .list_5,
+body .new_list .w .list_5,
+body .black_list .w .list_5,
+body .chaozhi_list .w .list_5,
+body .pink_list .w .list_5,
+body .purple_list .w .list_5,
+body .blue_list .w .list_5,
+body .green_list .w .list_5,
+body .clothes_list .w .list_5 {
+  position: relative;
+  width: 260px;
+  height: 426px;
+  margin-right: 16px;
+  float: left;
+  overflow: hidden;
+}
+body .other_list .w .list_1 .list_img,
+body .new_list .w .list_1 .list_img,
+body .black_list .w .list_1 .list_img,
+body .chaozhi_list .w .list_1 .list_img,
+body .pink_list .w .list_1 .list_img,
+body .purple_list .w .list_1 .list_img,
+body .blue_list .w .list_1 .list_img,
+body .green_list .w .list_1 .list_img,
+body .clothes_list .w .list_1 .list_img,
+body .other_list .w .list_2 .list_img,
+body .new_list .w .list_2 .list_img,
+body .black_list .w .list_2 .list_img,
+body .chaozhi_list .w .list_2 .list_img,
+body .pink_list .w .list_2 .list_img,
+body .purple_list .w .list_2 .list_img,
+body .blue_list .w .list_2 .list_img,
+body .green_list .w .list_2 .list_img,
+body .clothes_list .w .list_2 .list_img,
+body .other_list .w .list_3 .list_img,
+body .new_list .w .list_3 .list_img,
+body .black_list .w .list_3 .list_img,
+body .chaozhi_list .w .list_3 .list_img,
+body .pink_list .w .list_3 .list_img,
+body .purple_list .w .list_3 .list_img,
+body .blue_list .w .list_3 .list_img,
+body .green_list .w .list_3 .list_img,
+body .clothes_list .w .list_3 .list_img,
+body .other_list .w .list_4 .list_img,
+body .new_list .w .list_4 .list_img,
+body .black_list .w .list_4 .list_img,
+body .chaozhi_list .w .list_4 .list_img,
+body .pink_list .w .list_4 .list_img,
+body .purple_list .w .list_4 .list_img,
+body .blue_list .w .list_4 .list_img,
+body .green_list .w .list_4 .list_img,
+body .clothes_list .w .list_4 .list_img,
+body .other_list .w .list_5 .list_img,
+body .new_list .w .list_5 .list_img,
+body .black_list .w .list_5 .list_img,
+body .chaozhi_list .w .list_5 .list_img,
+body .pink_list .w .list_5 .list_img,
+body .purple_list .w .list_5 .list_img,
+body .blue_list .w .list_5 .list_img,
+body .green_list .w .list_5 .list_img,
+body .clothes_list .w .list_5 .list_img {
+  width: 260px;
+  height: 260px;
+  display: block;
+  overflow: hidden;
+  background-color: #fff;
+}
+body .other_list .w .list_1 .list_img img,
+body .new_list .w .list_1 .list_img img,
+body .black_list .w .list_1 .list_img img,
+body .chaozhi_list .w .list_1 .list_img img,
+body .pink_list .w .list_1 .list_img img,
+body .purple_list .w .list_1 .list_img img,
+body .blue_list .w .list_1 .list_img img,
+body .green_list .w .list_1 .list_img img,
+body .clothes_list .w .list_1 .list_img img,
+body .other_list .w .list_2 .list_img img,
+body .new_list .w .list_2 .list_img img,
+body .black_list .w .list_2 .list_img img,
+body .chaozhi_list .w .list_2 .list_img img,
+body .pink_list .w .list_2 .list_img img,
+body .purple_list .w .list_2 .list_img img,
+body .blue_list .w .list_2 .list_img img,
+body .green_list .w .list_2 .list_img img,
+body .clothes_list .w .list_2 .list_img img,
+body .other_list .w .list_3 .list_img img,
+body .new_list .w .list_3 .list_img img,
+body .black_list .w .list_3 .list_img img,
+body .chaozhi_list .w .list_3 .list_img img,
+body .pink_list .w .list_3 .list_img img,
+body .purple_list .w .list_3 .list_img img,
+body .blue_list .w .list_3 .list_img img,
+body .green_list .w .list_3 .list_img img,
+body .clothes_list .w .list_3 .list_img img,
+body .other_list .w .list_4 .list_img img,
+body .new_list .w .list_4 .list_img img,
+body .black_list .w .list_4 .list_img img,
+body .chaozhi_list .w .list_4 .list_img img,
+body .pink_list .w .list_4 .list_img img,
+body .purple_list .w .list_4 .list_img img,
+body .blue_list .w .list_4 .list_img img,
+body .green_list .w .list_4 .list_img img,
+body .clothes_list .w .list_4 .list_img img,
+body .other_list .w .list_5 .list_img img,
+body .new_list .w .list_5 .list_img img,
+body .black_list .w .list_5 .list_img img,
+body .chaozhi_list .w .list_5 .list_img img,
+body .pink_list .w .list_5 .list_img img,
+body .purple_list .w .list_5 .list_img img,
+body .blue_list .w .list_5 .list_img img,
+body .green_list .w .list_5 .list_img img,
+body .clothes_list .w .list_5 .list_img img {
+  transition: 0.3s;
+}
+body .other_list .w .list_1 .list_img:hover img,
+body .new_list .w .list_1 .list_img:hover img,
+body .black_list .w .list_1 .list_img:hover img,
+body .chaozhi_list .w .list_1 .list_img:hover img,
+body .pink_list .w .list_1 .list_img:hover img,
+body .purple_list .w .list_1 .list_img:hover img,
+body .blue_list .w .list_1 .list_img:hover img,
+body .green_list .w .list_1 .list_img:hover img,
+body .clothes_list .w .list_1 .list_img:hover img,
+body .other_list .w .list_2 .list_img:hover img,
+body .new_list .w .list_2 .list_img:hover img,
+body .black_list .w .list_2 .list_img:hover img,
+body .chaozhi_list .w .list_2 .list_img:hover img,
+body .pink_list .w .list_2 .list_img:hover img,
+body .purple_list .w .list_2 .list_img:hover img,
+body .blue_list .w .list_2 .list_img:hover img,
+body .green_list .w .list_2 .list_img:hover img,
+body .clothes_list .w .list_2 .list_img:hover img,
+body .other_list .w .list_3 .list_img:hover img,
+body .new_list .w .list_3 .list_img:hover img,
+body .black_list .w .list_3 .list_img:hover img,
+body .chaozhi_list .w .list_3 .list_img:hover img,
+body .pink_list .w .list_3 .list_img:hover img,
+body .purple_list .w .list_3 .list_img:hover img,
+body .blue_list .w .list_3 .list_img:hover img,
+body .green_list .w .list_3 .list_img:hover img,
+body .clothes_list .w .list_3 .list_img:hover img,
+body .other_list .w .list_4 .list_img:hover img,
+body .new_list .w .list_4 .list_img:hover img,
+body .black_list .w .list_4 .list_img:hover img,
+body .chaozhi_list .w .list_4 .list_img:hover img,
+body .pink_list .w .list_4 .list_img:hover img,
+body .purple_list .w .list_4 .list_img:hover img,
+body .blue_list .w .list_4 .list_img:hover img,
+body .green_list .w .list_4 .list_img:hover img,
+body .clothes_list .w .list_4 .list_img:hover img,
+body .other_list .w .list_5 .list_img:hover img,
+body .new_list .w .list_5 .list_img:hover img,
+body .black_list .w .list_5 .list_img:hover img,
+body .chaozhi_list .w .list_5 .list_img:hover img,
+body .pink_list .w .list_5 .list_img:hover img,
+body .purple_list .w .list_5 .list_img:hover img,
+body .blue_list .w .list_5 .list_img:hover img,
+body .green_list .w .list_5 .list_img:hover img,
+body .clothes_list .w .list_5 .list_img:hover img {
+  transform: scale(1.05);
+}
+body .other_list .w .list_1 .other_list_Introduced,
+body .new_list .w .list_1 .other_list_Introduced,
+body .black_list .w .list_1 .other_list_Introduced,
+body .chaozhi_list .w .list_1 .other_list_Introduced,
+body .pink_list .w .list_1 .other_list_Introduced,
+body .purple_list .w .list_1 .other_list_Introduced,
+body .blue_list .w .list_1 .other_list_Introduced,
+body .green_list .w .list_1 .other_list_Introduced,
+body .clothes_list .w .list_1 .other_list_Introduced,
+body .other_list .w .list_2 .other_list_Introduced,
+body .new_list .w .list_2 .other_list_Introduced,
+body .black_list .w .list_2 .other_list_Introduced,
+body .chaozhi_list .w .list_2 .other_list_Introduced,
+body .pink_list .w .list_2 .other_list_Introduced,
+body .purple_list .w .list_2 .other_list_Introduced,
+body .blue_list .w .list_2 .other_list_Introduced,
+body .green_list .w .list_2 .other_list_Introduced,
+body .clothes_list .w .list_2 .other_list_Introduced,
+body .other_list .w .list_3 .other_list_Introduced,
+body .new_list .w .list_3 .other_list_Introduced,
+body .black_list .w .list_3 .other_list_Introduced,
+body .chaozhi_list .w .list_3 .other_list_Introduced,
+body .pink_list .w .list_3 .other_list_Introduced,
+body .purple_list .w .list_3 .other_list_Introduced,
+body .blue_list .w .list_3 .other_list_Introduced,
+body .green_list .w .list_3 .other_list_Introduced,
+body .clothes_list .w .list_3 .other_list_Introduced,
+body .other_list .w .list_4 .other_list_Introduced,
+body .new_list .w .list_4 .other_list_Introduced,
+body .black_list .w .list_4 .other_list_Introduced,
+body .chaozhi_list .w .list_4 .other_list_Introduced,
+body .pink_list .w .list_4 .other_list_Introduced,
+body .purple_list .w .list_4 .other_list_Introduced,
+body .blue_list .w .list_4 .other_list_Introduced,
+body .green_list .w .list_4 .other_list_Introduced,
+body .clothes_list .w .list_4 .other_list_Introduced,
+body .other_list .w .list_5 .other_list_Introduced,
+body .new_list .w .list_5 .other_list_Introduced,
+body .black_list .w .list_5 .other_list_Introduced,
+body .chaozhi_list .w .list_5 .other_list_Introduced,
+body .pink_list .w .list_5 .other_list_Introduced,
+body .purple_list .w .list_5 .other_list_Introduced,
+body .blue_list .w .list_5 .other_list_Introduced,
+body .green_list .w .list_5 .other_list_Introduced,
+body .clothes_list .w .list_5 .other_list_Introduced {
+  background-color: #fff;
+  height: 143px;
+}
+body .other_list .w .list_1 .other_list_Introduced .title,
+body .new_list .w .list_1 .other_list_Introduced .title,
+body .black_list .w .list_1 .other_list_Introduced .title,
+body .chaozhi_list .w .list_1 .other_list_Introduced .title,
+body .pink_list .w .list_1 .other_list_Introduced .title,
+body .purple_list .w .list_1 .other_list_Introduced .title,
+body .blue_list .w .list_1 .other_list_Introduced .title,
+body .green_list .w .list_1 .other_list_Introduced .title,
+body .clothes_list .w .list_1 .other_list_Introduced .title,
+body .other_list .w .list_2 .other_list_Introduced .title,
+body .new_list .w .list_2 .other_list_Introduced .title,
+body .black_list .w .list_2 .other_list_Introduced .title,
+body .chaozhi_list .w .list_2 .other_list_Introduced .title,
+body .pink_list .w .list_2 .other_list_Introduced .title,
+body .purple_list .w .list_2 .other_list_Introduced .title,
+body .blue_list .w .list_2 .other_list_Introduced .title,
+body .green_list .w .list_2 .other_list_Introduced .title,
+body .clothes_list .w .list_2 .other_list_Introduced .title,
+body .other_list .w .list_3 .other_list_Introduced .title,
+body .new_list .w .list_3 .other_list_Introduced .title,
+body .black_list .w .list_3 .other_list_Introduced .title,
+body .chaozhi_list .w .list_3 .other_list_Introduced .title,
+body .pink_list .w .list_3 .other_list_Introduced .title,
+body .purple_list .w .list_3 .other_list_Introduced .title,
+body .blue_list .w .list_3 .other_list_Introduced .title,
+body .green_list .w .list_3 .other_list_Introduced .title,
+body .clothes_list .w .list_3 .other_list_Introduced .title,
+body .other_list .w .list_4 .other_list_Introduced .title,
+body .new_list .w .list_4 .other_list_Introduced .title,
+body .black_list .w .list_4 .other_list_Introduced .title,
+body .chaozhi_list .w .list_4 .other_list_Introduced .title,
+body .pink_list .w .list_4 .other_list_Introduced .title,
+body .purple_list .w .list_4 .other_list_Introduced .title,
+body .blue_list .w .list_4 .other_list_Introduced .title,
+body .green_list .w .list_4 .other_list_Introduced .title,
+body .clothes_list .w .list_4 .other_list_Introduced .title,
+body .other_list .w .list_5 .other_list_Introduced .title,
+body .new_list .w .list_5 .other_list_Introduced .title,
+body .black_list .w .list_5 .other_list_Introduced .title,
+body .chaozhi_list .w .list_5 .other_list_Introduced .title,
+body .pink_list .w .list_5 .other_list_Introduced .title,
+body .purple_list .w .list_5 .other_list_Introduced .title,
+body .blue_list .w .list_5 .other_list_Introduced .title,
+body .green_list .w .list_5 .other_list_Introduced .title,
+body .clothes_list .w .list_5 .other_list_Introduced .title {
+  text-align: center;
+  padding-top: 35px;
+  padding-left: 10px;
+}
+body .other_list .w .list_1 .other_list_Introduced .title a,
+body .new_list .w .list_1 .other_list_Introduced .title a,
+body .black_list .w .list_1 .other_list_Introduced .title a,
+body .chaozhi_list .w .list_1 .other_list_Introduced .title a,
+body .pink_list .w .list_1 .other_list_Introduced .title a,
+body .purple_list .w .list_1 .other_list_Introduced .title a,
+body .blue_list .w .list_1 .other_list_Introduced .title a,
+body .green_list .w .list_1 .other_list_Introduced .title a,
+body .clothes_list .w .list_1 .other_list_Introduced .title a,
+body .other_list .w .list_2 .other_list_Introduced .title a,
+body .new_list .w .list_2 .other_list_Introduced .title a,
+body .black_list .w .list_2 .other_list_Introduced .title a,
+body .chaozhi_list .w .list_2 .other_list_Introduced .title a,
+body .pink_list .w .list_2 .other_list_Introduced .title a,
+body .purple_list .w .list_2 .other_list_Introduced .title a,
+body .blue_list .w .list_2 .other_list_Introduced .title a,
+body .green_list .w .list_2 .other_list_Introduced .title a,
+body .clothes_list .w .list_2 .other_list_Introduced .title a,
+body .other_list .w .list_3 .other_list_Introduced .title a,
+body .new_list .w .list_3 .other_list_Introduced .title a,
+body .black_list .w .list_3 .other_list_Introduced .title a,
+body .chaozhi_list .w .list_3 .other_list_Introduced .title a,
+body .pink_list .w .list_3 .other_list_Introduced .title a,
+body .purple_list .w .list_3 .other_list_Introduced .title a,
+body .blue_list .w .list_3 .other_list_Introduced .title a,
+body .green_list .w .list_3 .other_list_Introduced .title a,
+body .clothes_list .w .list_3 .other_list_Introduced .title a,
+body .other_list .w .list_4 .other_list_Introduced .title a,
+body .new_list .w .list_4 .other_list_Introduced .title a,
+body .black_list .w .list_4 .other_list_Introduced .title a,
+body .chaozhi_list .w .list_4 .other_list_Introduced .title a,
+body .pink_list .w .list_4 .other_list_Introduced .title a,
+body .purple_list .w .list_4 .other_list_Introduced .title a,
+body .blue_list .w .list_4 .other_list_Introduced .title a,
+body .green_list .w .list_4 .other_list_Introduced .title a,
+body .clothes_list .w .list_4 .other_list_Introduced .title a,
+body .other_list .w .list_5 .other_list_Introduced .title a,
+body .new_list .w .list_5 .other_list_Introduced .title a,
+body .black_list .w .list_5 .other_list_Introduced .title a,
+body .chaozhi_list .w .list_5 .other_list_Introduced .title a,
+body .pink_list .w .list_5 .other_list_Introduced .title a,
+body .purple_list .w .list_5 .other_list_Introduced .title a,
+body .blue_list .w .list_5 .other_list_Introduced .title a,
+body .green_list .w .list_5 .other_list_Introduced .title a,
+body .clothes_list .w .list_5 .other_list_Introduced .title a {
+  margin: 0 auto;
+  font-size: 16px;
+  display: block;
+  color: #333;
+  width: 206px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body .other_list .w .list_1 .other_list_Introduced .title p,
+body .new_list .w .list_1 .other_list_Introduced .title p,
+body .black_list .w .list_1 .other_list_Introduced .title p,
+body .chaozhi_list .w .list_1 .other_list_Introduced .title p,
+body .pink_list .w .list_1 .other_list_Introduced .title p,
+body .purple_list .w .list_1 .other_list_Introduced .title p,
+body .blue_list .w .list_1 .other_list_Introduced .title p,
+body .green_list .w .list_1 .other_list_Introduced .title p,
+body .clothes_list .w .list_1 .other_list_Introduced .title p,
+body .other_list .w .list_2 .other_list_Introduced .title p,
+body .new_list .w .list_2 .other_list_Introduced .title p,
+body .black_list .w .list_2 .other_list_Introduced .title p,
+body .chaozhi_list .w .list_2 .other_list_Introduced .title p,
+body .pink_list .w .list_2 .other_list_Introduced .title p,
+body .purple_list .w .list_2 .other_list_Introduced .title p,
+body .blue_list .w .list_2 .other_list_Introduced .title p,
+body .green_list .w .list_2 .other_list_Introduced .title p,
+body .clothes_list .w .list_2 .other_list_Introduced .title p,
+body .other_list .w .list_3 .other_list_Introduced .title p,
+body .new_list .w .list_3 .other_list_Introduced .title p,
+body .black_list .w .list_3 .other_list_Introduced .title p,
+body .chaozhi_list .w .list_3 .other_list_Introduced .title p,
+body .pink_list .w .list_3 .other_list_Introduced .title p,
+body .purple_list .w .list_3 .other_list_Introduced .title p,
+body .blue_list .w .list_3 .other_list_Introduced .title p,
+body .green_list .w .list_3 .other_list_Introduced .title p,
+body .clothes_list .w .list_3 .other_list_Introduced .title p,
+body .other_list .w .list_4 .other_list_Introduced .title p,
+body .new_list .w .list_4 .other_list_Introduced .title p,
+body .black_list .w .list_4 .other_list_Introduced .title p,
+body .chaozhi_list .w .list_4 .other_list_Introduced .title p,
+body .pink_list .w .list_4 .other_list_Introduced .title p,
+body .purple_list .w .list_4 .other_list_Introduced .title p,
+body .blue_list .w .list_4 .other_list_Introduced .title p,
+body .green_list .w .list_4 .other_list_Introduced .title p,
+body .clothes_list .w .list_4 .other_list_Introduced .title p,
+body .other_list .w .list_5 .other_list_Introduced .title p,
+body .new_list .w .list_5 .other_list_Introduced .title p,
+body .black_list .w .list_5 .other_list_Introduced .title p,
+body .chaozhi_list .w .list_5 .other_list_Introduced .title p,
+body .pink_list .w .list_5 .other_list_Introduced .title p,
+body .purple_list .w .list_5 .other_list_Introduced .title p,
+body .blue_list .w .list_5 .other_list_Introduced .title p,
+body .green_list .w .list_5 .other_list_Introduced .title p,
+body .clothes_list .w .list_5 .other_list_Introduced .title p {
+  margin: 4px auto 6px;
+  color: #aaa;
+  width: 206px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body .other_list .w .list_1 .other_list_Introduced .price,
+body .new_list .w .list_1 .other_list_Introduced .price,
+body .black_list .w .list_1 .other_list_Introduced .price,
+body .chaozhi_list .w .list_1 .other_list_Introduced .price,
+body .pink_list .w .list_1 .other_list_Introduced .price,
+body .purple_list .w .list_1 .other_list_Introduced .price,
+body .blue_list .w .list_1 .other_list_Introduced .price,
+body .green_list .w .list_1 .other_list_Introduced .price,
+body .clothes_list .w .list_1 .other_list_Introduced .price,
+body .other_list .w .list_2 .other_list_Introduced .price,
+body .new_list .w .list_2 .other_list_Introduced .price,
+body .black_list .w .list_2 .other_list_Introduced .price,
+body .chaozhi_list .w .list_2 .other_list_Introduced .price,
+body .pink_list .w .list_2 .other_list_Introduced .price,
+body .purple_list .w .list_2 .other_list_Introduced .price,
+body .blue_list .w .list_2 .other_list_Introduced .price,
+body .green_list .w .list_2 .other_list_Introduced .price,
+body .clothes_list .w .list_2 .other_list_Introduced .price,
+body .other_list .w .list_3 .other_list_Introduced .price,
+body .new_list .w .list_3 .other_list_Introduced .price,
+body .black_list .w .list_3 .other_list_Introduced .price,
+body .chaozhi_list .w .list_3 .other_list_Introduced .price,
+body .pink_list .w .list_3 .other_list_Introduced .price,
+body .purple_list .w .list_3 .other_list_Introduced .price,
+body .blue_list .w .list_3 .other_list_Introduced .price,
+body .green_list .w .list_3 .other_list_Introduced .price,
+body .clothes_list .w .list_3 .other_list_Introduced .price,
+body .other_list .w .list_4 .other_list_Introduced .price,
+body .new_list .w .list_4 .other_list_Introduced .price,
+body .black_list .w .list_4 .other_list_Introduced .price,
+body .chaozhi_list .w .list_4 .other_list_Introduced .price,
+body .pink_list .w .list_4 .other_list_Introduced .price,
+body .purple_list .w .list_4 .other_list_Introduced .price,
+body .blue_list .w .list_4 .other_list_Introduced .price,
+body .green_list .w .list_4 .other_list_Introduced .price,
+body .clothes_list .w .list_4 .other_list_Introduced .price,
+body .other_list .w .list_5 .other_list_Introduced .price,
+body .new_list .w .list_5 .other_list_Introduced .price,
+body .black_list .w .list_5 .other_list_Introduced .price,
+body .chaozhi_list .w .list_5 .other_list_Introduced .price,
+body .pink_list .w .list_5 .other_list_Introduced .price,
+body .purple_list .w .list_5 .other_list_Introduced .price,
+body .blue_list .w .list_5 .other_list_Introduced .price,
+body .green_list .w .list_5 .other_list_Introduced .price,
+body .clothes_list .w .list_5 .other_list_Introduced .price {
+  text-align: center;
+}
+body .other_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .new_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .black_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .chaozhi_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .pink_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .purple_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .blue_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .green_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .clothes_list .w .list_1 .other_list_Introduced .price span:first-child,
+body .other_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .new_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .black_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .chaozhi_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .pink_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .purple_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .blue_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .green_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .clothes_list .w .list_2 .other_list_Introduced .price span:first-child,
+body .other_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .new_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .black_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .chaozhi_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .pink_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .purple_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .blue_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .green_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .clothes_list .w .list_3 .other_list_Introduced .price span:first-child,
+body .other_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .new_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .black_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .chaozhi_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .pink_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .purple_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .blue_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .green_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .clothes_list .w .list_4 .other_list_Introduced .price span:first-child,
+body .other_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .new_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .black_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .chaozhi_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .pink_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .purple_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .blue_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .green_list .w .list_5 .other_list_Introduced .price span:first-child,
+body .clothes_list .w .list_5 .other_list_Introduced .price span:first-child {
+  color: #b4272d;
+  font-size: 14px;
+}
+body .other_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .new_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .black_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .chaozhi_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .pink_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .purple_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .blue_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .green_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .clothes_list .w .list_1 .other_list_Introduced .price span:last-child,
+body .other_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .new_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .black_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .chaozhi_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .pink_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .purple_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .blue_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .green_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .clothes_list .w .list_2 .other_list_Introduced .price span:last-child,
+body .other_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .new_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .black_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .chaozhi_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .pink_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .purple_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .blue_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .green_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .clothes_list .w .list_3 .other_list_Introduced .price span:last-child,
+body .other_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .new_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .black_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .chaozhi_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .pink_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .purple_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .blue_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .green_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .clothes_list .w .list_4 .other_list_Introduced .price span:last-child,
+body .other_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .new_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .black_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .chaozhi_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .pink_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .purple_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .blue_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .green_list .w .list_5 .other_list_Introduced .price span:last-child,
+body .clothes_list .w .list_5 .other_list_Introduced .price span:last-child {
+  color: #b4272d;
+  font-size: 20px;
+}
+body .other_list .w .list_1 .other_list_Introduced .shop a,
+body .new_list .w .list_1 .other_list_Introduced .shop a,
+body .black_list .w .list_1 .other_list_Introduced .shop a,
+body .chaozhi_list .w .list_1 .other_list_Introduced .shop a,
+body .pink_list .w .list_1 .other_list_Introduced .shop a,
+body .purple_list .w .list_1 .other_list_Introduced .shop a,
+body .blue_list .w .list_1 .other_list_Introduced .shop a,
+body .green_list .w .list_1 .other_list_Introduced .shop a,
+body .clothes_list .w .list_1 .other_list_Introduced .shop a,
+body .other_list .w .list_2 .other_list_Introduced .shop a,
+body .new_list .w .list_2 .other_list_Introduced .shop a,
+body .black_list .w .list_2 .other_list_Introduced .shop a,
+body .chaozhi_list .w .list_2 .other_list_Introduced .shop a,
+body .pink_list .w .list_2 .other_list_Introduced .shop a,
+body .purple_list .w .list_2 .other_list_Introduced .shop a,
+body .blue_list .w .list_2 .other_list_Introduced .shop a,
+body .green_list .w .list_2 .other_list_Introduced .shop a,
+body .clothes_list .w .list_2 .other_list_Introduced .shop a,
+body .other_list .w .list_3 .other_list_Introduced .shop a,
+body .new_list .w .list_3 .other_list_Introduced .shop a,
+body .black_list .w .list_3 .other_list_Introduced .shop a,
+body .chaozhi_list .w .list_3 .other_list_Introduced .shop a,
+body .pink_list .w .list_3 .other_list_Introduced .shop a,
+body .purple_list .w .list_3 .other_list_Introduced .shop a,
+body .blue_list .w .list_3 .other_list_Introduced .shop a,
+body .green_list .w .list_3 .other_list_Introduced .shop a,
+body .clothes_list .w .list_3 .other_list_Introduced .shop a,
+body .other_list .w .list_4 .other_list_Introduced .shop a,
+body .new_list .w .list_4 .other_list_Introduced .shop a,
+body .black_list .w .list_4 .other_list_Introduced .shop a,
+body .chaozhi_list .w .list_4 .other_list_Introduced .shop a,
+body .pink_list .w .list_4 .other_list_Introduced .shop a,
+body .purple_list .w .list_4 .other_list_Introduced .shop a,
+body .blue_list .w .list_4 .other_list_Introduced .shop a,
+body .green_list .w .list_4 .other_list_Introduced .shop a,
+body .clothes_list .w .list_4 .other_list_Introduced .shop a,
+body .other_list .w .list_5 .other_list_Introduced .shop a,
+body .new_list .w .list_5 .other_list_Introduced .shop a,
+body .black_list .w .list_5 .other_list_Introduced .shop a,
+body .chaozhi_list .w .list_5 .other_list_Introduced .shop a,
+body .pink_list .w .list_5 .other_list_Introduced .shop a,
+body .purple_list .w .list_5 .other_list_Introduced .shop a,
+body .blue_list .w .list_5 .other_list_Introduced .shop a,
+body .green_list .w .list_5 .other_list_Introduced .shop a,
+body .clothes_list .w .list_5 .other_list_Introduced .shop a {
+  position: absolute;
+  display: block;
+}
+body .other_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .new_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .black_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .chaozhi_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .pink_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .purple_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .blue_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .green_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .clothes_list .w .list_1 .other_list_Introduced .shop a:first-child,
+body .other_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .new_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .black_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .chaozhi_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .pink_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .purple_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .blue_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .green_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .clothes_list .w .list_2 .other_list_Introduced .shop a:first-child,
+body .other_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .new_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .black_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .chaozhi_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .pink_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .purple_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .blue_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .green_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .clothes_list .w .list_3 .other_list_Introduced .shop a:first-child,
+body .other_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .new_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .black_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .chaozhi_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .pink_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .purple_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .blue_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .green_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .clothes_list .w .list_4 .other_list_Introduced .shop a:first-child,
+body .other_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .new_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .black_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .chaozhi_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .pink_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .purple_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .blue_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .green_list .w .list_5 .other_list_Introduced .shop a:first-child,
+body .clothes_list .w .list_5 .other_list_Introduced .shop a:first-child {
+  width: 90px;
+  color: #fff;
+  background: #ba463b;
+  border-radius: 3px;
+  font-size: 13px;
+  padding: 2px 4px;
+  text-align: center;
+  left: 50px;
+  top: 370px;
+}
+body .other_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .new_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .black_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .chaozhi_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .pink_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .purple_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .blue_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .green_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .clothes_list .w .list_1 .other_list_Introduced .shop a:last-child,
+body .other_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .new_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .black_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .chaozhi_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .pink_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .purple_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .blue_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .green_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .clothes_list .w .list_2 .other_list_Introduced .shop a:last-child,
+body .other_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .new_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .black_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .chaozhi_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .pink_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .purple_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .blue_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .green_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .clothes_list .w .list_3 .other_list_Introduced .shop a:last-child,
+body .other_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .new_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .black_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .chaozhi_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .pink_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .purple_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .blue_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .green_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .clothes_list .w .list_4 .other_list_Introduced .shop a:last-child,
+body .other_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .new_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .black_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .chaozhi_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .pink_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .purple_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .blue_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .green_list .w .list_5 .other_list_Introduced .shop a:last-child,
+body .clothes_list .w .list_5 .other_list_Introduced .shop a:last-child {
+  left: 165px;
+  top: 367px;
+}
+body .other_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .new_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .black_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .chaozhi_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .pink_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .purple_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .blue_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .green_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .clothes_list .w .list_1 .other_list_Introduced .shop a:last-child img,
+body .other_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .new_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .black_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .chaozhi_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .pink_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .purple_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .blue_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .green_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .clothes_list .w .list_2 .other_list_Introduced .shop a:last-child img,
+body .other_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .new_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .black_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .chaozhi_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .pink_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .purple_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .blue_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .green_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .clothes_list .w .list_3 .other_list_Introduced .shop a:last-child img,
+body .other_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .new_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .black_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .chaozhi_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .pink_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .purple_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .blue_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .green_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .clothes_list .w .list_4 .other_list_Introduced .shop a:last-child img,
+body .other_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .new_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .black_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .chaozhi_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .pink_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .purple_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .blue_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .green_list .w .list_5 .other_list_Introduced .shop a:last-child img,
+body .clothes_list .w .list_5 .other_list_Introduced .shop a:last-child img {
+  width: 28px;
+  height: 28px;
+}
+body .pink,
+body .purple,
+body .blue,
+body .green {
+  padding-top: 80px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 38px;
+  color: #484848;
+}
+body .pink .bar,
+body .purple .bar,
+body .blue .bar,
+body .green .bar {
+  margin: 0 auto;
+  background-color: #bcbcbc;
+  width: 50px;
+  height: 4px;
+  margin-top: 20px;
+  text-align: center;
+}
+body .pink {
+  background-color: #fdd4d4;
+}
+body .pink_list {
+  background-color: #fdd4d4;
+}
+body .purple {
+  background-color: #dbc6e5;
+}
+body .purple_list {
+  background-color: #dbc6e5;
+}
+body .blue {
+  background-color: #afd2ee;
+}
+body .blue_list {
+  background-color: #afd2ee;
+}
+body .green {
+  background-color: #b9dcd9;
+}
+body .green_list {
+  background-color: #b9dcd9;
+}
+body .clothes_list {
+  background-color: #eee;
+}
+body .right_tab {
+  position: fixed;
+  right: 0;
+  bottom: 200px;
+  width: 154px;
+}
+body .right_tab .nav_1,
+body .right_tab .nav_2 {
+  background-color: #f4bb48;
+}
+body .right_tab .nav_1 {
+  padding: 0 8px;
+}
+body .right_tab .nav_1 ul {
+  border-radius: 5px;
+  background-color: #fff;
+  text-align: center;
+}
+body .right_tab .nav_1 ul li a {
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+}
+body .right_tab .nav_1 ul li a span {
+  padding: 3px;
+  color: #ffffff;
+  border-radius: 10px;
+  color: #333;
+}
+body .right_tab .nav_1 ul li a span:hover {
+  background: #d84901;
+  color: #fff;
+}
+body .right_tab .nav_2 {
+  height: 220px;
+  position: relative;
+}
+body .right_tab .nav_2 img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+body .right_tab .nav_2 i {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+body .right_tab .nav_2 p {
+  padding-left: 5px;
+  padding-top: 2px;
+  color: #73706e;
+}
+body .right_tab .nav_2 p:hover {
+  color: #000;
+}
+body .right_tab .nav_2 .kefu {
+  position: absolute;
+  left: 25px;
+  bottom: 6px;
+}
+body .right_tab .nav_2 .kefu i {
+  background: url(../img/Event.img/ce5.png) no-repeat;
+}
+body .right_tab .nav_2 .top {
+  position: absolute;
+  left: 90px;
+  bottom: 6px;
+}
+body .right_tab .nav_2 .top i {
+  background: url(../img/Event.img/ce4.png) no-repeat;
+}
+body .fixedtool {
+  position: fixed;
+  right: 0;
+  bottom: 70px;
+}
+body .fixedtool .service,
+body .fixedtool .to_top {
+  display: block;
+  width: 60px;
+  height: 48px;
+  padding-top: 12px;
+  background: #333;
+  color: #fff;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  margin-bottom: 1px;
+}
+body .fixedtool .service i,
+body .fixedtool .to_top i {
+  display: block;
+  margin: 0 auto;
+}
+body .fixedtool .service p,
+body .fixedtool .to_top p {
+  padding-top: 5px;
+}
+body .fixedtool a:hover {
+  background-color: #ab2b2b;
+}
+body .fixedtool .service i {
+  background: url(../img/Event.img/fixedtool.png) no-repeat 0 -5px;
+  width: 23px;
+  height: 22px;
+}
+body .fixedtool .to_top i {
+  background: url(../img/Event.img/fixedtool.png) no-repeat 0 -36px;
+  width: 23px;
+  height: 16px;
+}
+body .foot .foot_1 {
+  padding-top: 65px;
+  padding-bottom: 45px;
+}
+body .foot .foot_1 .w {
+  width: 1104px;
+}
+body .foot .foot_1 .w .item {
+  float: left;
+  position: relative;
+  width: 363px;
+  height: 204px;
+}
+body .foot .foot_1 .w .item h4 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 28px;
+}
+body .foot .foot_1 .item:first-child .kefu,
+body .foot .foot_1 .item:first-child .fankui {
+  position: absolute;
+  text-align: center;
+  padding-top: 25px;
+  border: 1px solid #ccc;
+  width: 80px;
+  height: 75px;
+}
+body .foot .foot_1 .item:first-child .kefu a i,
+body .foot .foot_1 .item:first-child .fankui a i {
+  margin: 0 auto;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+body .foot .foot_1 .item:first-child .kefu a span,
+body .foot .foot_1 .item:first-child .fankui a span {
+  display: block;
+  text-align: center;
+  color: #333;
+  font-size: 14px;
+  margin-top: 10px;
+}
+body .foot .foot_1 .item:first-child .kefu {
+  left: 80px;
+}
+body .foot .foot_1 .item:first-child .kefu a i {
+  background: url(../img/Event.img/foot-kefu.png) no-repeat 0 -349px;
+}
+body .foot .foot_1 .item:first-child .kefu a:hover i {
+  background: url(../img/Event.img/foot-kefu.png) no-repeat 0 -313px;
+}
+body .foot .foot_1 .item:first-child .kefu a:hover span {
+  color: #b4a078;
+}
+body .foot .foot_1 .item:first-child .fankui {
+  right: 80px;
+}
+body .foot .foot_1 .item:first-child .fankui a i {
+  background: url(../img/Event.img/foot-kefu.png) no-repeat 0 -36px;
+}
+body .foot .foot_1 .item:first-child .fankui a:hover i {
+  background: url(../img/Event.img/foot-kefu.png) no-repeat 0 1px;
+}
+body .foot .foot_1 .item:first-child .fankui a:hover span {
+  color: #b4a078;
+}
+body .foot .foot_1 .item:nth-child(2) {
+  width: 289px;
+  padding: 0 37px;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+body .foot .foot_1 .item:nth-child(2) p {
+  color: #666;
+  font-size: 12px;
+  margin-bottom: 22px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu {
+  position: relative;
+  height: 42px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu span {
+  line-height: 42px;
+  font-size: 14px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu i {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  display: block;
+  top: 5px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu .yixin {
+  background: url(../img/Event.img/foot_icon_sns.png) no-repeat 0 -160px;
+  left: 75px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu i.yixin:hover div {
+  display: block;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu .wechat {
+  background: url(../img/Event.img/foot_icon_sns.png) no-repeat 0 -118px;
+  left: 125px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu i.wechat:hover div {
+  display: block;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu div {
+  display: none;
+  position: absolute;
+  top: 32px;
+  left: -38px;
+  padding: 5px;
+  box-shadow: 0 0 1px 1px #ddd;
+  background-color: #fff;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu div .sanjiao {
+  padding: 0;
+  margin: 0;
+  width: 0;
+  height: 0;
+  box-shadow: none;
+  border: 9px solid transparent;
+  border-bottom-color: #fff;
+  background-color: transparent;
+  position: absolute;
+  top: -15px;
+  left: 45px;
+}
+body .foot .foot_1 .item:nth-child(2) .guanzhu .sina {
+  background: url(../img/Event.img/foot_icon_sns.png) no-repeat 0 -76px;
+  left: 175px;
+}
+body .foot .foot_1 .item:last-child img {
+  display: block;
+  margin: 0 auto;
+}
+body .foot .foot_1 .item:last-child p {
+  line-height: 30px;
+  height: 30px;
+  text-align: center;
+  color: #b4a078;
+}
+body .foot .foot_2 {
+  height: 250px;
+  padding-top: 37px;
+  background-color: #414141;
+}
+body .foot .foot_2 .w ul {
+  height: 51px;
+  padding-bottom: 30px;
+  padding-left: 17px;
+  border-bottom: 1px solid #ccc;
+}
+body .foot .foot_2 .w ul li {
+  position: relative;
+  float: left;
+  width: 195px;
+  margin: 0 35px;
+}
+body .foot .foot_2 .w ul li i {
+  display: block;
+  width: 51px;
+  height: 51px;
+}
+body .foot .foot_2 .w ul li p {
+  position: absolute;
+  display: block;
+  color: #fff;
+  font-size: 18px;
+  top: 10px;
+  left: 60px;
+}
+body .foot .foot_2 .w ul .li_1 {
+  background: url(../img/Event.img/hxm_yanxuan-component.png) no-repeat 0 -134px;
+}
+body .foot .foot_2 .w ul .li_2 {
+  background: url(../img/Event.img/hxm_yanxuan-component.png) no-repeat 0 -367px;
+}
+body .foot .foot_2 .w ul .li_3 {
+  background: url(../img/Event.img/hxm_yanxuan-component.png) no-repeat 0 0px;
+}
+body .foot .foot_2 .w ul .li_4 {
+  background: url(../img/Event.img/hxm_yanxuan-component.png) no-repeat 0 -193px;
+}
+body .foot .foot_2 .w nav {
+  text-align: center;
+  color: #999;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+body .foot .foot_2 .w nav a {
+  color: #999;
+  margin: 0 10px;
+}
+body .foot .foot_2 .w nav b {
+  font-weight: bold;
+  text-align: center;
+  color: #999;
+}
+body .foot .foot_2 .w nav a:hover {
+  color: #fff;
+}
+body .foot .foot_2 .w p {
+  text-align: center;
+  height: 18px;
+  line-height: 18px;
+  padding: 10px 0 ;
+}
+body .foot .foot_2 .w p a,
+body .foot .foot_2 .w p span {
+  color: #999;
+  margin-right: 15px;
+}
+body .foot .foot_2 .w p a:hover {
+  color: #fff;
+}
+body .foot .foot_2 .w p img {
+  width: 23px;
+  height: 25px;
+}

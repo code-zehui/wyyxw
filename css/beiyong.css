@@ -1,0 +1,197 @@
+.other_list {
+    width: 1104px;
+    overflow: hidden;
+
+    .list_1 {
+
+        .other_list_mz,
+        .other_list_xp {
+            position: absolute;
+            background-color: #e26743;
+            padding: 2px 7px;
+            color: #fff;
+            border-radius: 3px;
+            top: 267px;
+        }
+
+        .other_list_mz {
+            left: 130px;
+        }
+
+        .other_list_xp {
+            background-color: #b39f78;
+            left: 80px;
+        }
+    }
+
+    .list_2 {
+
+        .other_list_mz,
+        .other_list_kx {
+            position: absolute;
+            background-color: #e26743;
+            padding: 2px 7px;
+            color: #fff;
+            border-radius: 3px;
+            top: 267px;
+        }
+
+        .other_list_mz {
+            left: 130px;
+        }
+
+        .other_list_kx {
+            background-color: #b9453a;
+            left: 70px;
+        }
+    }
+
+    .list_3 {
+        .other_list_kx {
+            position: absolute;
+            background-color: #e26743;
+            padding: 2px 7px;
+            color: #fff;
+            border-radius: 3px;
+            top: 267px;
+            background-color: #b9453a;
+            left: 100px;
+        }
+    }
+
+    .list_4 {
+        .other_list_xp {
+            position: absolute;
+            background-color: #b39f78;
+            padding: 2px 7px;
+            color: #fff;
+            border-radius: 3px;
+            top: 267px;
+            left: 70px;
+
+        }
+
+        .other_list_kx {
+            position: absolute;
+            background-color: #e26743;
+            padding: 2px 7px;
+            color: #fff;
+            border-radius: 3px;
+            top: 267px;
+            background-color: #b9453a;
+            left: 120px;
+        }
+    }
+
+    // 商品1,2,3,4
+    .list_1,
+    .list_2,
+    .list_3,
+    .list_4 {
+        position: relative;
+        width: 260px;
+        height: 426px;
+        margin-right: 16px;
+        float: left;
+        overflow: hidden;
+
+        .list_img {
+            width: 260px;
+            height: 260px;
+            display: block;
+            overflow: hidden;
+
+            img {
+                transition: 0.3s;
+            }
+        }
+
+        .list_img:hover {
+            img {
+                transform: scale(1.05);
+
+            }
+        }
+
+        // 介绍
+        .other_list_Introduced {
+            background-color: #fff;
+            height: 143px;
+
+            // 标题
+            .title {
+                text-align: center;
+
+                padding-top: 35px;
+                padding-left: 10px;
+
+                a {
+                    margin: 0 auto;
+                    font-size: 16px;
+                    display: block;
+                    color: #333;
+                    width: 206px;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                }
+
+                p {
+                    margin: 4px auto 6px;
+                    color: #aaa;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                }
+            }
+
+            //价格
+            .price {
+                text-align: center;
+
+                span:first-child {
+                    color: #b4272d;
+                    font-size: 14px;
+                }
+
+                span:last-child {
+                    color: #b4272d;
+                    font-size: 20px;
+                }
+            }
+
+            //购买
+            .shop {
+                a {
+                    // float: left;
+                    position: absolute;
+                    display: block;
+
+                }
+
+                a:first-child {
+                    width: 90px;
+                    color: #fff;
+                    background: #ba463b;
+                    border-radius: 3px;
+                    font-size: 13px;
+                    padding: 2px 4px;
+                    text-align: center;
+                    left: 50px;
+                    top: 370px;
+                }
+
+                a:last-child {
+                    left: 165px;
+                    top: 367px;
+
+
+                    img {
+                        width: 28px;
+                        height: 28px;
+                    }
+                }
+            }
+        }
+    }
+}

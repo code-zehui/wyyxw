@@ -1,0 +1,307 @@
+.head1 .black {
+  height: 43px;
+  background-color: #000;
+  color: #cbcbcb;
+  font-size: 14px;
+}
+.head1 .black .w .gui {
+  width: 140px;
+  float: left;
+  line-height: 43px;
+}
+.head1 .black .w ul {
+  width: 640px;
+  float: right;
+}
+.head1 .black .w ul li {
+  float: left;
+  margin: 0 10px;
+  line-height: 43px;
+}
+.head1 .black .w ul li a {
+  color: #cbcbcb;
+}
+.head1 .black .w ul .rexiantubiao {
+  display: inline-block;
+  width: 15px;
+  height: 20px;
+  margin-top: 14px;
+  margin-right: 0;
+  background: url(../img/gift/icon-head-896cd3de5c.svg) -2px -360px;
+  vertical-align: middle;
+}
+.head1 .black .w ul .shuxian {
+  width: 1px;
+  background: #cbcbcb;
+  height: 16px;
+  margin-top: 14px;
+}
+.head1 .headmiddle {
+  height: 104px;
+  position: relative;
+  margin-top: 15px;
+}
+.head1 .headmiddle .qiyegou {
+  float: left;
+}
+.head1 .headmiddle .qiyegou .gou {
+  display: inline-block;
+  width: 180px;
+  height: 61px;
+  background: url(../img/gift/2edb688517a9424b1dc6ec1acb8cdae.png) 0 -545px;
+  vertical-align: bottom;
+}
+.head1 .headmiddle .qiyegou span {
+  font-size: 28px;
+  color: #af8731;
+}
+.head1 .headmiddle .middleM .middleFuang {
+  position: absolute;
+  left: 311px;
+  height: 36px;
+}
+.head1 .headmiddle .middleM .middleFuang input {
+  position: relative;
+  width: 418px;
+  height: 36px;
+  border: 2px solid #323232;
+  padding-left: 25px;
+  vertical-align: top;
+}
+.head1 .headmiddle .middleM .middleFuang i {
+  position: absolute;
+  left: 6px;
+  top: 12px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url(../img/gift/2edb688517a9424b1dc6ec1acb8cdae.png) 0 -310px;
+  background-size: 124px 510px;
+}
+.head1 .headmiddle .middleM .middleFuang .fangdajing {
+  display: inline-block;
+  width: 42px;
+  height: 40px;
+  background: #000 url(../img/gift/2edb688517a9424b1dc6ec1acb8cdae.png) 0 -672px;
+}
+.head1 .headmiddle .middleM .middleFuang ul {
+  margin-top: 10px;
+}
+.head1 .headmiddle .middleM .middleFuang ul li {
+  float: left;
+  margin-right: 12px;
+}
+.head1 .headmiddle .middleM .middleFuang ul .baixian {
+  width: 2px;
+  height: 14px;
+  background-color: #c5c5c5;
+  margin-top: 2px;
+}
+.head1 .headmiddle .qingdan {
+  width: 210px;
+  position: absolute;
+  right: 0;
+}
+.head1 .headmiddle .qingdan li {
+  width: 92px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  float: left;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+.head1 .headmiddle .qingdan li .qingdantubiao {
+  display: inline-block;
+  width: 18px;
+  height: 20px;
+  background: url(../img/gift/icon-head-896cd3de5c.svg) -2px -2px;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+.head1 .headmiddle .qingdan li .xiadantubiaio {
+  display: inline-block;
+  width: 18px;
+  height: 20px;
+  background: url(../img/gift/icon-head-896cd3de5c.svg) -2px -275px;
+  vertical-align: middle;
+}
+.head1 .fenlei {
+  font-size: 16px;
+}
+.head1 .fenlei ul li {
+  margin-right: 63px;
+  color: #7a7a7a;
+  float: left;
+  height: 42px;
+  line-height: 42px;
+}
+.head1 .fenlei ul .shangpinfenlei {
+  background-color: #000;
+  width: 159px;
+  height: 42px;
+  line-height: 42px;
+  color: #fff;
+}
+.head1 .fenlei ul .shangpinfenlei .san {
+  display: inline-block;
+  margin-top: 3px;
+  margin-left: 20px;
+  width: 15px;
+  margin-right: 0;
+  vertical-align: middle;
+}
+.head1 .fenlei ul .shangpinfenlei .san li {
+  width: 15px;
+  height: 2px;
+  background-color: #fefefe;
+  margin-bottom: 2px;
+  margin-right: 0;
+}
+.head1 .fenlei ul .shangpinfenlei a {
+  vertical-align: middle;
+  color: #fefefe;
+}
+.list {
+  position: relative;
+}
+.list .listson {
+  width: 159px;
+  height: 400px;
+  background: #000;
+  padding-top: 20px;
+  position: absolute;
+  margin-top: 42px;
+  display: none;
+}
+.list .listson div {
+  padding-left: 20px;
+  height: 67px;
+}
+.list .listson div p:first-child {
+  font-size: 14px;
+  margin-bottom: 7px;
+}
+.list .listson div p:first-child a {
+  color: #fff;
+}
+.list .listson div p:last-child {
+  font-size: 13px;
+}
+.list .listson div p:last-child a {
+  color: #999;
+}
+.top1 {
+  width: 50px;
+  height: 30px;
+  font: bold 20px/48px '宋体';
+  text-align: center;
+  color: #fff;
+  background: url(../img/gift/icon-yxfoot-s31a482cc9a-22e3c09f81.png) 0 -466px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 100px;
+  right: 30px;
+  display: none;
+}
+.top1.active {
+  display: block;
+}
+img {
+  width: 100%;
+}
+.footer {
+  background-color: #000;
+  height: 320px;
+}
+.footer .heart {
+  padding-top: 20px;
+}
+.footer .heart .top {
+  height: 230px;
+  border-bottom: 1px solid #ccc;
+}
+.footer .heart .top .left {
+  width: 500px;
+}
+.footer .heart .top .left .wang {
+  width: 80px;
+  height: 28px;
+  background: url(../img/gift/icon-logo-e5250b005d.svg);
+  background-size: 116px 57px;
+}
+.footer .heart .top .left p {
+  color: white;
+  margin: 20px 0;
+  line-height: 1.5;
+}
+.footer .heart .top .left .baoyou {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  background: url(../img/gift/icon-foot-08333de83f.svg) -128px -60px;
+  vertical-align: middle;
+}
+.footer .heart .top .left .pinzhi {
+  display: inline-block;
+  width: 60px;
+  height: 58px;
+  background: url(../img/gift/icon-foot-08333de83f.svg) -60px -120px;
+  vertical-align: middle;
+  margin-left: 30px;
+}
+.footer .heart .top .right {
+  width: 300px;
+}
+.footer .heart .top .right .rexian {
+  width: 280px;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-bottom: 1px solid #ccc;
+}
+.footer .heart .top .right .rexian h2 {
+  color: white;
+  line-height: 2.5;
+}
+.footer .heart .top .right .focus .fenxiang {
+  display: inline-block;
+  width: 60px;
+  height: 58px;
+  background: url(../img/gift/icon-foot-08333de83f.svg) 0px -305px;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+.footer .heart .top .right .focus .weixin {
+  display: inline-block;
+  width: 60px;
+  height: 58px;
+  background: url(../img/gift/icon-foot-08333de83f.svg) 0px -240px;
+  vertical-align: middle;
+}
+.footer .heart .top .right .focus .weibo {
+  display: inline-block;
+  width: 60px;
+  height: 58px;
+  background: url(../img/gift/icon-foot-08333de83f.svg) 0px -175px;
+  vertical-align: middle;
+}
+.footer .but {
+  padding-left: 300px;
+  margin-top: 18px;
+}
+.footer .but ul {
+  height: 16px;
+}
+.footer .but ul li {
+  float: left;
+  margin-left: 10px;
+}
+.footer .but ul .xian {
+  width: 1px;
+  height: 16px;
+  line-height: 16px;
+  background-color: #ccc;
+}
+.footer .but p {
+  line-height: 2;
+}
